@@ -1,0 +1,96 @@
+2025-09-16 18:27:08,934 - INFO - Use pytorch device_name: cpu
+2025-09-16 18:27:08,935 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-16 18:31:51,396 - INFO - Use pytorch device_name: cpu
+2025-09-16 18:31:51,406 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-16 18:34:22,959 - INFO - Use pytorch device_name: cpu
+2025-09-16 18:34:22,961 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-16 18:34:38,133 - INFO - Use pytorch device_name: cpu
+2025-09-16 18:34:38,134 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-16 18:58:42,621 - INFO - Use pytorch device_name: cpu
+2025-09-16 18:58:42,621 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-16 19:03:53,434 - INFO - Use pytorch device_name: cpu
+2025-09-16 19:03:53,438 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-16 19:05:46,005 - INFO - Use pytorch device_name: cpu
+2025-09-16 19:05:46,007 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-16 19:07:25,839 - INFO - Use pytorch device_name: cpu
+2025-09-16 19:07:25,847 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-16 19:14:04,321 - INFO - Use pytorch device_name: cpu
+2025-09-16 19:14:04,324 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-16 22:14:22,552 - INFO - Use pytorch device_name: cpu
+2025-09-16 22:14:22,553 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-18 08:28:40,837 - INFO - Use pytorch device_name: cpu
+2025-09-18 08:28:40,838 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-18 08:28:59,288 - INFO - Use pytorch device_name: cpu
+2025-09-18 08:28:59,288 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-18 08:29:00,441 - INFO - Use pytorch device_name: cpu
+2025-09-18 08:29:00,441 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-18 08:31:45,518 - INFO - Use pytorch device_name: cpu
+2025-09-18 08:31:45,519 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-18 08:32:49,139 - INFO - Use pytorch device_name: cpu
+2025-09-18 08:32:49,139 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-18 08:32:49,345 - INFO - Use pytorch device_name: cpu
+2025-09-18 08:32:49,345 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-18 08:35:25,008 - INFO - Use pytorch device_name: cpu
+2025-09-18 08:35:25,009 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-18 08:36:15,544 - INFO - Use pytorch device_name: cpu
+2025-09-18 08:36:15,544 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-18 08:36:15,736 - INFO - Use pytorch device_name: cpu
+2025-09-18 08:36:15,736 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-18 08:41:42,164 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-18 08:42:00,579 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-18 08:42:00,805 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-18 08:42:56,211 - INFO - Could not import comtypes.gen, trying to create it.
+2025-09-18 08:42:56,213 - INFO - Created comtypes.gen directory: 'C:\Users\alekhya\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2025-09-18 08:42:56,225 - INFO - Writing __init__.py file: 'C:\Users\alekhya\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen\__init__.py'
+2025-09-18 08:42:56,232 - INFO - Using writeable comtypes cache directory: 'C:\Users\alekhya\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2025-09-18 08:42:56,288 - INFO - Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: No module named 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4'
+2025-09-18 08:42:56,301 - INFO - # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+2025-09-18 08:42:56,529 - INFO - # Generating comtypes.gen.SpeechLib
+2025-09-18 08:42:56,542 - INFO - Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+2025-09-18 08:42:56,543 - INFO - # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+2025-09-18 08:42:56,551 - INFO - # Generating comtypes.gen.stdole
+2025-09-18 08:44:15,665 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-18 09:02:15,952 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-18 09:02:50,834 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-18 09:02:51,073 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-18 09:04:10,307 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\alekhya\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-18 09:04:10,322 - INFO - Using writeable comtypes cache directory: 'C:\Users\alekhya\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2025-09-18 09:29:48,256 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-18 09:30:04,646 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-18 09:30:04,868 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-18 09:31:32,768 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\alekhya\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-18 09:31:32,776 - INFO - Using writeable comtypes cache directory: 'C:\Users\alekhya\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2025-09-18 09:36:06,098 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-18 09:36:07,927 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-18 09:44:54,438 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-18 09:45:10,538 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-18 09:45:10,755 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-18 10:00:29,267 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-18 10:01:33,774 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-18 10:01:33,997 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-18 10:03:19,514 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\alekhya\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-18 10:03:19,516 - INFO - Using writeable comtypes cache directory: 'C:\Users\alekhya\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2025-09-18 10:09:44,473 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-18 10:13:16,136 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-18 10:13:16,293 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-18 12:38:32,023 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-09-18 12:38:46,041 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-09-18 12:38:46,230 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-09-18 12:40:54,042 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-09-18 12:41:11,828 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-09-18 12:41:12,025 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-09-18 12:42:57,961 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\alekhya\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-18 12:42:57,974 - INFO - Using writeable comtypes cache directory: 'C:\Users\alekhya\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2025-09-18 13:07:38,099 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-09-18 13:08:09,035 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-09-18 13:08:09,204 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-09-18 13:11:41,121 - INFO - Use pytorch device_name: cpu
+2025-09-18 13:11:41,122 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-09-18 13:15:53,168 - INFO - Use pytorch device_name: cpu
+2025-09-18 13:15:53,170 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-09-18 13:15:53,184 - INFO - Use pytorch device_name: cpu
+2025-09-18 13:15:53,191 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-09-18 13:17:23,187 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\alekhya\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-18 13:17:23,203 - INFO - Using writeable comtypes cache directory: 'C:\Users\alekhya\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2025-09-18 13:18:39,037 - INFO - Use pytorch device_name: cpu
+2025-09-18 13:18:39,038 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
