@@ -17,15 +17,6 @@ Text-to-Speech – streams audio while the answer is being generated.
 
 Streamlit UI – user-friendly web interface for interaction.
 
-📂 Project Structure
-.
-├── app.py              # Streamlit app (UI + voice/text interaction)
-├── rag_pipeline.py     # RAG pipeline (retrieval + prompt building + LLM answering)
-├── retrieval.py        # Document retrieval logic (embeddings + similarity search)
-├── requirements.txt    # Python dependencies
-├── README.md           # Project documentation
-└── data/               # Knowledge base (legal documents, FAQs, etc.)
-
 
 # 📚 Tech Stack
 
